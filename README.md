@@ -1,5 +1,9 @@
 ### Hi there 👋
-Derek Lee
+### My name is Derek Lee
+Location: Queens, NYC
+Favorite Language: Python
+Favorite Food: Asian Food
+
 <!--
 **Kagiri2/Kagiri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
