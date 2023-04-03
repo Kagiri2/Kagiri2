@@ -3,7 +3,8 @@
 Location: Queens, NYC  
 Favorite Language: Python  
 Favorite Food: Asian Food       
-📫 Reach me at leed22@rpi.edu
+📫 Reach me at leed22@rpi.edu     
+⚡ Fun fact: I am an epic gamer. 
 <!--
 **Kagiri2/Kagiri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
