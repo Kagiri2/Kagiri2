@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📫 How to reach me **leed22@rpi.edu**
+- 📫 How to reach me **dereklee745@gmail.com**
 
 
 
