@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek Lee</h1>
 <h3 align="center">An aspiring Software Engineer from NYC</h3>
 
-- 🌱 I’m currently learning **C and JS**
-
 - 📫 How to reach me **dereklee745@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
