@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derek Lee</h1>
-<h3 align="center">An aspiring Software Engineer from NYC</h3>
+<h3 align="center">Incoming AT&T Software Engineer Intern</h3>
 
 - 📫 How to reach me **dereklee745@gmail.com**
 
